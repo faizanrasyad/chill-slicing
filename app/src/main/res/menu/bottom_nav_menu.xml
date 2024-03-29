@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Beranda"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/tosca"
+        android:id="@+id/beranda"
+        android:enabled="true"/>
+
+    <item android:title="Pesanan"
+        android:icon="@drawable/ic_note"
+        android:id="@+id/pesanan"
+        android:enabled="true"/>
+
+    <item android:title="Hasil Lab"
+        android:icon="@drawable/ic_science"
+        android:id="@+id/hasilLab"
+        android:enabled="true"/>
+
+    <item android:title="Konsultasi"
+        android:icon="@drawable/ic_chat"
+        android:id="@+id/konsultasi"
+        android:enabled="true"/>
+
+    <item android:title="Kontak"
+        android:icon="@drawable/ic_call"
+        android:id="@+id/kontak"
+        android:enabled="true"/>
+
+</menu>

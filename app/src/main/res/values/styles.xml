@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="bottom_navbar" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/tosca</item>
+        <item name="colorPrimaryDark">@color/black</item>
+    </style>
+</resources>
